@@ -1,2 +1,3 @@
 <resources>
+    <string name="button_test">Test endpoint</string>
 </resources>
